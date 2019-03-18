@@ -9,6 +9,7 @@ $ npm i
 $ npm start
 ```
 
+* Browse to localhost:3000
 * Add some todos
 * Disable your browser's javascript
 * Reload the page
