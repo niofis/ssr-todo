@@ -13,4 +13,5 @@ $ npm start
 * Add some todos
 * Disable your browser's javascript
 * Reload the page
+* You'll still be able to add and update todos
 
