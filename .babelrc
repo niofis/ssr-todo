@@ -1,0 +1,20 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env", {
+        "targets": {
+          "node": "current",
+          "browsers": "> 0.25%, not dead"
+        },
+        "modules": false
+      }
+    ]
+  ],
+  "plugins": [
+    ["babel-plugin-inferno", {"imports": true}],
+    "@babel/plugin-syntax-jsx",
+    "@babel/plugin-transform-modules-commonjs",
+    "@babel/plugin-proposal-async-generator-functions",
+    "@babel/plugin-proposal-class-properties"
+  ]
+}
