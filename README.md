@@ -1,6 +1,6 @@
 # SSR ToDo
 
-This is just a proof of concept for creating an Inferno app that can run even when there is no javascript enabled.
+This is just a proof of concept for creating an [Inferno](https://github.com/infernojs/inferno) app that can run even when there is no javascript enabled.
 
 ## Run
 
